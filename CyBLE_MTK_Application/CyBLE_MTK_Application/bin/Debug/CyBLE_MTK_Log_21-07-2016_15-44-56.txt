@@ -1,0 +1,4 @@
+21-07-2016 15:44:56.628: LogManager: Started
+21-07-2016 15:45:06.580: CyBLE_MTK: Initialization complete
+21-07-2016 15:45:10.761: CyBLE_MTK: Cleaning Up...
+21-07-2016 15:45:10.808: LogManager: Stopped

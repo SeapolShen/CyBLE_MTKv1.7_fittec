@@ -1,0 +1,5 @@
+D:\cshape\fittec_interface\fittec_interface\bin\Release\fittec_interface.dll
+D:\cshape\fittec_interface\fittec_interface\bin\Release\fittec_interface.pdb
+D:\cshape\fittec_interface\fittec_interface\obj\Release\fittec_interface.dll
+D:\cshape\fittec_interface\fittec_interface\obj\Release\fittec_interface.pdb
+D:\cshape\fittec_interface\fittec_interface\obj\Release\fittec_interface.csprojResolveAssemblyReference.cache

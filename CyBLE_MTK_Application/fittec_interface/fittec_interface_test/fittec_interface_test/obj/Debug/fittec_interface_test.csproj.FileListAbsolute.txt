@@ -1,0 +1,14 @@
+D:\cshape\fittec_interface_test\fittec_interface_test\bin\Debug\fittec_interface_test.exe.config
+D:\cshape\fittec_interface_test\fittec_interface_test\bin\Debug\fittec_interface_test.exe
+D:\cshape\fittec_interface_test\fittec_interface_test\bin\Debug\fittec_interface_test.pdb
+D:\cshape\fittec_interface_test\fittec_interface_test\bin\Debug\fittec_interface.dll
+D:\cshape\fittec_interface_test\fittec_interface_test\bin\Debug\fittec_interface.pdb
+D:\cshape\fittec_interface_test\fittec_interface_test\obj\Debug\fittec_interface_test.csprojResolveAssemblyReference.cache
+D:\cshape\fittec_interface_test\fittec_interface_test\obj\Debug\fittec_interface_test.Form1.resources
+D:\cshape\fittec_interface_test\fittec_interface_test\obj\Debug\fittec_interface_test.Properties.Resources.resources
+D:\cshape\fittec_interface_test\fittec_interface_test\obj\Debug\fittec_interface_test.csproj.GenerateResource.Cache
+D:\cshape\fittec_interface_test\fittec_interface_test\obj\Debug\fittec_interface_test.exe
+D:\cshape\fittec_interface_test\fittec_interface_test\obj\Debug\fittec_interface_test.pdb
+D:\Git\CyBLE_MTK_Application-shopfloor-Fittec\fittec_interface\fittec_interface_test\fittec_interface_test\bin\Debug\fittec_interface_test.exe.config
+D:\Git\CyBLE_MTK_Application-shopfloor-Fittec\fittec_interface\fittec_interface_test\fittec_interface_test\obj\Debug\fittec_interface_test.exe
+D:\Git\CyBLE_MTK_Application-shopfloor-Fittec\fittec_interface\fittec_interface_test\fittec_interface_test\obj\Debug\fittec_interface_test.pdb

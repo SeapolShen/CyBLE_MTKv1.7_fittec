@@ -1,0 +1,4 @@
+D:\cshape\fittec_interface\fittec_interface\bin\Debug\fittec_interface.dll
+D:\cshape\fittec_interface\fittec_interface\bin\Debug\fittec_interface.pdb
+D:\cshape\fittec_interface\fittec_interface\obj\Debug\fittec_interface.dll
+D:\cshape\fittec_interface\fittec_interface\obj\Debug\fittec_interface.pdb
